@@ -89,14 +89,7 @@
 
 ---
 
-## 🧠 DSA
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-224%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GeeksforGeeks-237%2B%20solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</p>
-
----
 
 <p align="center">
   <i>Open to backend internships & junior roles · Bengaluru / Remote</i>
