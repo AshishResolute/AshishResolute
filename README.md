@@ -73,7 +73,7 @@
 | **Testing** | Jest, Supertest |
 | **DevOps** | Docker, Render, Railway |
 | **Docs** | Swagger / OpenAPI |
-| **Languages** | JavaScript, TypeScript (learning), SQL |
+| **Languages** | JavaScript, TypeScript , SQL |
 
 ---
 
