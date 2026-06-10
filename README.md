@@ -16,6 +16,22 @@
 
 ## 🚀 Featured Projects
 
+### 📱 [SocialBuzz](https://github.com/AshishResolute/socialBuzz)
+> Social media backend API
+
+- Follow system · Paginated feed
+- JWT access + refresh token flow
+- **78%+ test coverage** with Jest & Supertest
+- Dockerized with PostgreSQL & Redis services
+- Swagger docs
+
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+<a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
+
+---
+
 ### 🏦 [BankAPI](https://github.com/AshishResolute/bankapi)
 > Production-grade banking REST API
 
@@ -32,21 +48,6 @@
 
 ---
 
-### 📱 [SocialBuzz](https://github.com/AshishResolute/socialBuzz)
-> Social media backend API
-
-- Follow system · Paginated feed
-- JWT access + refresh token flow
-- **78%+ test coverage** with Jest & Supertest
-- Dockerized with PostgreSQL & Redis services
-- Swagger docs
-
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/></a>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-<a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
-
----
 
 ### 💹 [Finance API](https://github.com/AshishResolute/finance_backend)
 > Finance & analytics REST API with RBAC
