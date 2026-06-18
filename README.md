@@ -97,7 +97,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/AshishResolute">
-    <img src="https://img.shields.io/badge/LeetCode-276%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-289%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/ashishren9md">
     <img src="https://img.shields.io/badge/GFG-307%2B%20solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
