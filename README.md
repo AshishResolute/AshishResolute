@@ -1,7 +1,9 @@
-<h1 align="center">Hey, I'm Ashish 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ashish+%F0%9F%91%8B;Backend+Developer;Building+scalable+APIs+with+Node.js" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <b>Backend Developer</b> · B.Tech Mechanical Engineering @ UVCE Bengaluru<br/>
+  <b>Backend Developer</b> · B.Tech  @ UVCE Bengaluru<br/>
   Building scalable REST APIs with Node.js, PostgreSQL & Redis
 </p>
 
@@ -95,15 +97,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishResolute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishResolute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishResolute&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishResolute&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishResolute&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishResolute&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -112,7 +114,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/AshishResolute">
-    <img src="https://img.shields.io/badge/LeetCode-294%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-301%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/ashishren9md">
