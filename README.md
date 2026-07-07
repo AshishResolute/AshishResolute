@@ -121,6 +121,11 @@
     <img src="https://img.shields.io/badge/GFG-313%2B%20solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
   </a>
 </p>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshishResolute&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
