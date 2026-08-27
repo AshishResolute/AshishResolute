@@ -8,49 +8,94 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-seven-theta-gr81z8gaqt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/ashishgourh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ashishresolute@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://leetcode.com/AshishResolute"><img src="https://img.shields.io/badge/LeetCode-353%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://portfolio-seven-theta-gr81z8gaqt.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashishgourh">
+    <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ashishresolute@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-22C55E?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/AshishResolute">
+    <img src="https://img.shields.io/badge/LeetCode-353%2B-22C55E?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
 
-<p align="center"><img src="https://img.shields.io/badge/Open%20to-Backend%20%2F%20Full--Stack%20Roles-22C55E?style=for-the-badge" alt="Open to work"/></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Backend%20%2F%20Full--Stack%20Roles-22C55E?style=flat-square" alt="Open to work"/>
+</p>
 
 ---
 
 ### About
 
-I got into backend because I like systems that don't fall over under load — auth that doesn't leak, caches that actually hit, transactions that don't race. Most of what I build is a REST API with JWT + refresh rotation, Postgres, Redis, and enough tests that I trust a deploy.
+I got into backend because I like systems that don’t fall over under load — auth that doesn’t leak, caches that actually hit, transactions that don’t race.
+
+Most of what I build is a REST API with JWT + refresh rotation, Postgres, Redis, and enough tests that I trust a deploy.
 
 Currently applying for **Backend / Full-Stack roles** — Bengaluru or remote.
 
 ---
 
-### Featured builds
+### Featured Projects
 
-**[SocialBuzz](https://github.com/AshishResolute/socialBuzz)** — social media backend (follow graph, feed, notifications)
-- Redis cache-aside dropped feed latency **170ms → 5ms**
+**[SocialBuzz](https://github.com/AshishResolute/socialBuzz)** — Social media backend (follow graph, feed, notifications)
+
+- Redis cache-aside dropped feed latency **170 ms → 5 ms**
 - JWT refresh rotation with reuse detection (self-referencing FK token chain — theft revokes the whole session family)
-- BullMQ + Redis for async notification fan-out and email delivery
-- 81% coverage, 49 tests, GitHub Actions CI on every push
-- `Node.js · TypeScript · PostgreSQL · Redis · BullMQ · Docker`
+- BullMQ + Redis for async notification fan-out and email delivery (Resend)
+- 80%+ coverage, GitHub Actions CI on every push
 
-**[BankAPI](https://github.com/AshishResolute/bankapi)** — banking REST API · [live docs](https://bankapi-1-5iag.onrender.com/api-docs/)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-22C55E?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-22C55E?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-22C55E?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-22C55E?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BullMQ-22C55E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-22C55E?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+**[BankAPI](https://github.com/AshishResolute/bankapi)** — Banking REST API · [Live Docs](https://bankapi-1-5iag.onrender.com/api-docs/)
+
 - Row-level locking on transaction records — no concurrent balance corruption
 - Redis + Lua scripts for atomic, race-condition-safe rate limiting (Upstash)
-- JWT refresh rotation with HTTP-only cookies, 70%+ test coverage
-- `Node.js · PostgreSQL · Redis · Docker · Swagger`
+- JWT refresh rotation with HTTP-only cookies + 70%+ test coverage
 
-**[Job Application Tracker](https://github.com/AshishResolute/tracker)** — full-stack CRUD app · [live](https://tracker-front-end-xi.vercel.app)
-- React/Vite frontend + Express/TypeScript/Prisma API, deployed independently on Vercel + Render
+<p>
+  <img src="https://img.shields.io/badge/Node.js-22C55E?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-22C55E?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-22C55E?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-22C55E?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-22C55E?style=flat-square&logo=swagger&logoColor=white"/>
+</p>
+
+**[Job Application Tracker](https://github.com/AshishResolute/tracker)** — Full-stack CRUD app · [Live](https://tracker-front-end-xi.vercel.app)
+
+- React/Vite frontend + Express/TypeScript/Prisma API (deployed independently on Vercel + Render)
 - 6-state pipeline (Applied → Interview → Offer/Rejected/Ghosted) modeled in Postgres via Prisma
-- Optimistic UI updates — every CRUD action reflects instantly, no reload
-- `React · Node.js · TypeScript · PostgreSQL · Prisma`
+- Optimistic UI updates — every CRUD action reflects instantly
 
-**[Finance API](https://github.com/AshishResolute/finance_backend)** — role-based ledger & analytics API
+<p>
+  <img src="https://img.shields.io/badge/React-22C55E?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-22C55E?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-22C55E?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-22C55E?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-22C55E?style=flat-square&logo=prisma&logoColor=white"/>
+</p>
+
+**[Finance API](https://github.com/AshishResolute/finance_backend)** — Role-based ledger & analytics API
+
 - RBAC across viewer / analyst / admin roles
-- Dynamic SQL with field whitelisting — aggregate queries (SUM/CASE/GROUP BY) without injection risk
-- `Node.js · Express · PostgreSQL · JWT · RBAC`
+- Dynamic SQL with field whitelisting — aggregate queries (SUM / CASE / GROUP BY) without injection risk
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-22C55E?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-22C55E?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-22C55E?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-22C55E?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RBAC-22C55E?style=flat-square"/>
+</p>
 
 ---
 
@@ -85,9 +130,12 @@ Currently applying for **Backend / Full-Stack roles** — Bengaluru or remote.
 ### DSA
 
 <p align="center">
-  <a href="https://leetcode.com/AshishResolute"><img src="https://img.shields.io/badge/LeetCode-353%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/ashishren9md"><img src="https://img.shields.io/badge/GFG-300%2B%20solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
+  <a href="https://leetcode.com/AshishResolute">
+    <img src="https://img.shields.io/badge/LeetCode-353%2B%20solved-22C55E?style=flat-square&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/ashishren9md">
+    <img src="https://img.shields.io/badge/GFG-300%2B%20solved-22C55E?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
 
 ---
