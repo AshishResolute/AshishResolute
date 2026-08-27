@@ -8,17 +8,17 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-seven-theta-gr81z8gaqt.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://portfolio-seven-theta-gr81z8gaqt.vercel.app/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/ashishgourh">
-    <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ashishgourh" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ashishresolute@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-22C55E?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:ashishresolute@gmail.com" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://leetcode.com/AshishResolute">
-    <img src="https://img.shields.io/badge/LeetCode-353%2B-22C55E?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="https://leetcode.com/AshishResolute" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LeetCode-353%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -45,12 +45,12 @@ Currently applying for **Backend / Full-Stack roles** — Bengaluru or remote.
 - 81% coverage, 49 tests, GitHub Actions CI on every push
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-22C55E?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-22C55E?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-22C55E?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-22C55E?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/BullMQ-22C55E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-22C55E?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-E11D48?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 **[BankAPI](https://github.com/AshishResolute/bankapi)** — banking REST API · [live docs](https://bankapi-1-5iag.onrender.com/api-docs/)
@@ -59,11 +59,11 @@ Currently applying for **Backend / Full-Stack roles** — Bengaluru or remote.
 - JWT refresh rotation with HTTP-only cookies, 70%+ test coverage
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-22C55E?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-22C55E?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-22C55E?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-22C55E?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-22C55E?style=flat-square&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 </p>
 
 **[Job Application Tracker](https://github.com/AshishResolute/tracker)** — full-stack CRUD app · [live](https://tracker-front-end-xi.vercel.app)
@@ -72,11 +72,11 @@ Currently applying for **Backend / Full-Stack roles** — Bengaluru or remote.
 - Optimistic UI updates — every CRUD action reflects instantly, no reload
 
 <p>
-<img src="https://img.shields.io/badge/React-22C55E?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-22C55E?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-22C55E?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-22C55E?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-22C55E?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 </p>
 
 **[Finance API](https://github.com/AshishResolute/finance_backend)** — role-based ledger & analytics API
@@ -84,11 +84,11 @@ Currently applying for **Backend / Full-Stack roles** — Bengaluru or remote.
 - Dynamic SQL with field whitelisting — aggregate queries (SUM/CASE/GROUP BY) without injection risk
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-22C55E?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-22C55E?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-22C55E?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-22C55E?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/RBAC-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/RBAC-6B7280?style=flat-square"/>
 </p>
 
 ---
@@ -124,11 +124,11 @@ Currently applying for **Backend / Full-Stack roles** — Bengaluru or remote.
 ### DSA
 
 <p align="center">
-  <a href="https://leetcode.com/AshishResolute">
-    <img src="https://img.shields.io/badge/LeetCode-353%2B%20solved-22C55E?style=flat-square&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/AshishResolute" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LeetCode-353%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/ashishren9md">
-    <img src="https://img.shields.io/badge/GFG-300%2B%20solved-22C55E?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+  <a href="https://www.geeksforgeeks.org/profile/ashishren9md" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/GFG-300%2B%20solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
