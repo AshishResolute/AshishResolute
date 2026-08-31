@@ -115,9 +115,6 @@ Currently applying for **Backend / Full-Stack roles** — Bengaluru or remote.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishResolute&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshishResolute&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 
 ---
 
