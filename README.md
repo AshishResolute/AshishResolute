@@ -1,23 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ashish;I+build+backend+systems+that+stay+correct+under+load;Node.js+%C2%B7+PostgreSQL+%C2%B7+Redis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish;Backend+Developer+%7C+TypeScript+%7C+Node.js;I+build+systems+that+stay+correct+under+load" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Self-taught backend developer · Final-year B.Tech @ UVCE Bengaluru<br/>
-  14 months building REST APIs with real auth, real caching, and tests that catch real bugs.
+  <b>Self-taught Backend Developer</b> · B.Tech @ UVCE Bengaluru
+  <br/>
+  Node.js · TypeScript · PostgreSQL · Redis
 </p>
 
 <p align="center">
-  <a href="https://portfolio-seven-theta-gr81z8gaqt.vercel.app/" style="text-decoration:none">
+  <a href="https://portfolio-seven-theta-gr81z8gaqt.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/ashishgourh" style="text-decoration:none">
+  <a href="https://www.linkedin.com/in/ashishgourh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ashishresolute@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:ashishresolute@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/AshishResolute" style="text-decoration:none">
+  <a href="https://leetcode.com/AshishResolute">
     <img src="https://img.shields.io/badge/LeetCode-353%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
@@ -28,83 +29,92 @@
 
 ---
 
-### About
+## About
 
-I got into backend because I like systems that don't fall over under load — auth that doesn't leak, caches that actually hit, transactions that don't race. Most of what I build is a REST API with JWT + refresh rotation, Postgres, Redis, and enough tests that I trust a deploy.
+I'm a self-taught backend developer focused on building **reliable APIs and systems**, not just CRUD endpoints.
 
-Currently applying for **Backend / Full-Stack roles** — Bengaluru or remote.
+I enjoy working on problems where correctness matters:
 
----
+* 🔐 Authentication and session security
+* ⚡ Redis caching and rate limiting
+* 🗄️ PostgreSQL transactions and concurrency
+* 🔄 Background jobs and asynchronous processing
+* 🧪 Automated testing and CI
+* 📈 Designing APIs that remain predictable under load
 
-### Featured builds
+My main stack is **Node.js + TypeScript + PostgreSQL + Redis**.
 
-**[SocialBuzz](https://github.com/AshishResolute/socialBuzz)** — social media backend (follow graph, feed, notifications)
-- Redis cache-aside dropped feed latency **170ms → 5ms**
-- JWT refresh rotation with reuse detection (self-referencing FK token chain — theft revokes the whole session family)
-- BullMQ + Redis for async notification fan-out and email delivery
-- 81% coverage, 49 tests, GitHub Actions CI on every push
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/BullMQ-E11D48?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
-**[BankAPI](https://github.com/AshishResolute/bankapi)** — banking REST API · [live docs](https://bankapi-1-5iag.onrender.com/api-docs/)
-- Row-level locking on transaction records — no concurrent balance corruption
-- Redis + Lua scripts for atomic, race-condition-safe rate limiting (Upstash)
-- JWT refresh rotation with HTTP-only cookies, 70%+ test coverage
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
-</p>
-
-**[Job Application Tracker](https://github.com/AshishResolute/tracker)** — full-stack CRUD app · [live](https://tracker-front-end-xi.vercel.app)
-- React/Vite frontend + Express/TypeScript/Prisma API, deployed independently on Vercel + Render
-- 6-state pipeline (Applied → Interview → Offer/Rejected/Ghosted) modeled in Postgres via Prisma
-- Optimistic UI updates — every CRUD action reflects instantly, no reload
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-</p>
-
-**[Finance API](https://github.com/AshishResolute/finance_backend)** — role-based ledger & analytics API
-- RBAC across viewer / analyst / admin roles
-- Dynamic SQL with field whitelisting — aggregate queries (SUM/CASE/GROUP BY) without injection risk
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/RBAC-6B7280?style=flat-square"/>
-</p>
+Currently looking for **Backend / Full-Stack opportunities** in Bengaluru or remote.
 
 ---
 
-### Stack
+## Featured Projects
 
-| | |
-|---|---|
-| **Backend** | Node.js, Express, TypeScript |
-| **Databases** | PostgreSQL, Redis, MySQL, MongoDB |
-| **Auth & Security** | JWT, Refresh Token Rotation, RBAC, bcrypt |
-| **Testing** | Jest, Supertest |
-| **DevOps** | Docker, GitHub Actions, Render, Vercel |
-| **Docs** | Swagger / OpenAPI |
+| Project                                                                  | What I built                                                               | Highlights                                                                                                                                                                   |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[SocialBuzz](https://github.com/AshishResolute/socialBuzz)**           | Social media backend with follows, feeds, notifications and authentication | **170ms → 5ms** cached feed · JWT refresh rotation + reuse detection · BullMQ async jobs · 49 tests · 81% coverage · GitHub Actions                                          |
+| **[BankAPI](https://github.com/AshishResolute/bankapi)**                 | Banking REST API focused on transactional correctness and security         | PostgreSQL row-level locking · Redis + Lua atomic rate limiting · JWT refresh rotation · 70%+ test coverage · [Live API Docs](https://bankapi-1-5iag.onrender.com/api-docs/) |
+| **[Job Application Tracker](https://github.com/AshishResolute/tracker)** | Full-stack application tracking system                                     | React + Vite · Express + TypeScript · Prisma + PostgreSQL · Optimistic UI · Independent frontend/backend deployment                                                          |
+| **[Finance API](https://github.com/AshishResolute/finance_backend)**     | Role-based financial ledger and analytics API                              | RBAC · Dynamic SQL with field whitelisting · `SUM` / `CASE` / `GROUP BY` analytics · JWT authentication                                                                      |
 
 ---
+
+## Technical Focus
+
+### Backend
+
+`Node.js` `Express` `TypeScript` `REST APIs`
+
+### Databases
+
+`PostgreSQL` `Redis` `MySQL` `MongoDB`
+
+### Security
+
+`JWT` `Refresh Token Rotation` `RBAC` `bcrypt`
+
+### Testing
+
+`Jest` `Supertest`
+
+### Infrastructure
+
+`Docker` `GitHub Actions` `Render` `Vercel`
+
+### API Documentation
+
+`Swagger` `OpenAPI`
+
+---
+
+## What I Care About
+
+```text
+Correctness       → transactions, locking, atomic operations
+Performance       → caching, indexes, efficient queries
+Security          → auth, token rotation, validation
+Reliability       → retries, background jobs, failure handling
+Maintainability   → TypeScript, tests, clear architecture
+```
+
+---
+
+## DSA
+
+<p align="center">
+  <a href="https://leetcode.com/AshishResolute">
+    <img src="https://img.shields.io/badge/LeetCode-353%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/ashishren9md">
+    <img src="https://img.shields.io/badge/GFG-300%2B%20Solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+Currently strengthening **DSA fundamentals and interview problem-solving**, with a focus on patterns rather than memorizing solutions.
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats-eight-rho-81.vercel.app/api?username=AshishResolute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="165"/>
@@ -115,22 +125,14 @@ Currently applying for **Backend / Full-Stack roles** — Bengaluru or remote.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishResolute&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
 </p>
 
-
----
-
-### DSA
-
-<p align="center">
-  <a href="https://leetcode.com/AshishResolute" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LeetCode-353%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/ashishren9md" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/GFG-300%2B%20solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 <p align="center">
-  <b>Bengaluru / Remote</b> · <a href="mailto:ashishresolute@gmail.com">ashishresolute@gmail.com</a> · <a href="https://portfolio-seven-theta-gr81z8gaqt.vercel.app/">Portfolio →</a>
+  <b>Backend / Full-Stack Developer</b>
+  <br/>
+  Bengaluru · Remote
+  <br/><br/>
+  <a href="mailto:ashishresolute@gmail.com">ashishresolute@gmail.com</a>
+  ·
+  <a href="https://portfolio-seven-theta-gr81z8gaqt.vercel.app/">Portfolio →</a>
 </p>
