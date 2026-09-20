@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish;Backend+Developer+%7C+TypeScript+%7C+Node.js;I+build+systems+that+stay+correct+under+load" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=hey+there+%F0%9F%91%8B;I'm+Ashish;self-taught+backend+dev;building+things+that+feel+reliable" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <b>Self-taught Backend Developer</b> · B.Tech @ UVCE Bengaluru
   <br/>
-  Node.js · TypeScript · PostgreSQL · Redis
+  <code>Node.js</code> · <code>TypeScript</code> · <code>PostgreSQL</code> · <code>Redis</code>
 </p>
 
 <p align="center">
   <a href="https://portfolio-seven-theta-gr81z8gaqt.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-1e1b4b?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ashishgourh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -24,101 +24,90 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Backend%20%2F%20Full--Stack%20Roles-22C55E?style=flat-square" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Open%20to-Backend%20%2F%20Full--Stack%20Roles-A78BFA?style=flat-square" alt="Open to work"/>
 </p>
 
 ---
 
-## About
+### a little about me
 
-I'm a self-taught backend developer focused on building **reliable APIs and systems**, not just CRUD endpoints.
+Hey, I’m Ashish 👋  
+I’m a self-taught backend developer who genuinely enjoys making systems that stay correct even when things get messy.
 
-I enjoy working on problems where correctness matters:
+I care a lot about the quiet parts of backend work:
+- authentication that doesn’t break under edge cases
+- caching that actually helps
+- transactions that don’t leave the database in a weird state
+- background jobs that keep running when no one’s watching
 
-* 🔐 Authentication and session security
-* ⚡ Redis caching and rate limiting
-* 🗄️ PostgreSQL transactions and concurrency
-* 🔄 Background jobs and asynchronous processing
-* 🧪 Automated testing and CI
-* 📈 Designing APIs that remain predictable under load
+My happy place is **Node.js + TypeScript + PostgreSQL + Redis**.
 
-My main stack is **Node.js + TypeScript + PostgreSQL + Redis**.
-
-Currently looking for **Backend / Full-Stack opportunities** in Bengaluru or remote.
+Currently looking for **Backend / Full-Stack roles** (Bengaluru or remote) where I can keep learning and ship reliable stuff.
 
 ---
 
-## Featured Projects
+### things I’ve built lately
 
-| Project                                                                  | What I built                                                               | Highlights                                                                                                                                                                   |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[SocialBuzz](https://github.com/AshishResolute/socialBuzz)**           | Social media backend with follows, feeds, notifications and authentication | **170ms → 5ms** cached feed · JWT refresh rotation + reuse detection · BullMQ async jobs · 49 tests · 81% coverage · GitHub Actions                                          |
-| **[BankAPI](https://github.com/AshishResolute/bankapi)**                 | Banking REST API focused on transactional correctness and security         | PostgreSQL row-level locking · Redis + Lua atomic rate limiting · JWT refresh rotation · 70%+ test coverage · [Live API Docs](https://bankapi-1-5iag.onrender.com/api-docs/) |
-| **[Job Application Tracker](https://github.com/AshishResolute/tracker)** | Full-stack application tracking system                                     | React + Vite · Express + TypeScript · Prisma + PostgreSQL · Optimistic UI · Independent frontend/backend deployment                                                          |
-| **[Finance API](https://github.com/AshishResolute/finance_backend)**     | Role-based financial ledger and analytics API                              | RBAC · Dynamic SQL with field whitelisting · `SUM` / `CASE` / `GROUP BY` analytics · JWT authentication                                                                      |
+| Project | What it does | Why I’m proud of it |
+|---------|--------------|---------------------|
+| **[SocialBuzz](https://github.com/AshishResolute/socialBuzz)** | Social media backend (follows, feeds, notifications, auth) | Feed went from **170ms → 5ms** with Redis · JWT refresh rotation + reuse detection · BullMQ jobs · 49 tests · 81% coverage |
+| **[BankAPI](https://github.com/AshishResolute/bankapi)** | Banking-style REST API focused on correctness | Row-level locking · Redis + Lua rate limiting · solid test coverage · [live docs](https://bankapi-1-5iag.onrender.com/api-docs/) |
+| **[Job Application Tracker](https://github.com/AshishResolute/tracker)** | Full-stack tracker for job applications | React + Vite frontend · Express + Prisma backend · optimistic UI · separately deployable |
+| **[Finance API](https://github.com/AshishResolute/finance_backend)** | Role-based financial ledger + analytics | RBAC · safe dynamic SQL · real analytics queries |
 
 ---
 
-## Technical Focus
+### my little toolkit
 
-### Backend
+**Backend**  
+`Node.js` `Express` `TypeScript` `REST`
 
-`Node.js` `Express` `TypeScript` `REST APIs`
+**Data**  
+`PostgreSQL` `Redis` `Prisma` `MySQL` `MongoDB`
 
-### Databases
-
-`PostgreSQL` `Redis` `MySQL` `MongoDB`
-
-### Security
-
+**Security & Auth**  
 `JWT` `Refresh Token Rotation` `RBAC` `bcrypt`
 
-### Testing
+**Testing & Quality**  
+`Jest` `Supertest` `GitHub Actions`
 
-`Jest` `Supertest`
-
-### Infrastructure
-
-`Docker` `GitHub Actions` `Render` `Vercel`
-
-### API Documentation
-
-`Swagger` `OpenAPI`
+**Infra & Docs**  
+`Docker` `Render` `Vercel` `Swagger / OpenAPI`
 
 ---
 
-## What I Care About
+### what I care about most
 
 ```text
-Correctness       → transactions, locking, atomic operations
-Performance       → caching, indexes, efficient queries
-Security          → auth, token rotation, validation
-Reliability       → retries, background jobs, failure handling
-Maintainability   → TypeScript, tests, clear architecture
+Correctness     → transactions, locking, atomic ops
+Performance     → caching, indexes, careful queries
+Security        → proper auth, token handling, validation
+Reliability     → retries, background jobs, graceful failure
+Clarity         → TypeScript, tests, readable architecture
 ```
 
 ---
 
-## DSA
+### DSA practice
 
 <p align="center">
   <a href="https://leetcode.com/AshishResolute">
-    <img src="https://img.shields.io/badge/LeetCode-353%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-353%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/ashishren9md">
-    <img src="https://img.shields.io/badge/GFG-300%2B%20Solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GFG-300%2B%20solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
-Currently strengthening **DSA fundamentals and interview problem-solving**, with a focus on patterns rather than memorizing solutions.
+Still grinding patterns and fundamentals so interviews feel less scary 💪
 
 ---
 
-## GitHub Activity
+### github vibes
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-rho-81.vercel.app/api?username=AshishResolute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-eight-rho-81.vercel.app/api/top-langs/?username=AshishResolute&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-eight-rho-81.vercel.app/api?username=AshishResolute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-rho-81.vercel.app/api/top-langs/?username=AshishResolute&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -128,11 +117,8 @@ Currently strengthening **DSA fundamentals and interview problem-solving**, with
 ---
 
 <p align="center">
-  <b>Backend / Full-Stack Developer</b>
-  <br/>
-  Bengaluru · Remote
-  <br/><br/>
-  <a href="mailto:ashishresolute@gmail.com">ashishresolute@gmail.com</a>
-  ·
-  <a href="https://portfolio-seven-theta-gr81z8gaqt.vercel.app/">Portfolio →</a>
+  thanks for stopping by ☕<br/>
+  always happy to chat about backend stuff, systems, or just good coffee<br/><br/>
+  <a href="mailto:ashishresolute@gmail.com">ashishresolute@gmail.com</a> ·
+  <a href="https://portfolio-seven-theta-gr81z8gaqt.vercel.app/">portfolio →</a>
 </p>
